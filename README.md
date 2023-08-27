@@ -1,18 +1,9 @@
 <div align="center">
-<img width="50%" src="http://i3.ytimg.com/vi/tYKRAXIio28/maxresdefault.jpg"/>
 
-# Django & React Notes App
 </div>
 
-### Cloning the repository
 
---> Clone the repository using the command below :
-```bash
-git clone https://github.com/divanov11/Django-React-NotesApp.git
-
-```
-
---> Move into the directory where we have the project files : 
+--> Clone then repo & then move into the directory where we have the project files : 
 ```bash
 cd Django-React-NotesApp
 
