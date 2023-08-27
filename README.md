@@ -1,7 +1,3 @@
-<div align="center">
-
-</div>
-
 
 --> Clone then repo & then move into the directory where we have the project files : 
 ```bash
